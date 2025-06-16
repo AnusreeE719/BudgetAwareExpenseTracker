@@ -1,0 +1,49 @@
+#headingSmall {
+    display: none;
+  }
+  
+  #logoHeading {
+    display: block;
+  }
+  
+  @media (min-width: 641px) and (max-width: 1000px) {
+    #logoHeading {
+      display: none;
+    }
+    #headingSmall {
+      display: block;
+    }
+  
+    #logoHeading1 {
+      font-size: 19px;
+    }
+    #logoHeading2 {
+      font-size: 14px;
+    }
+  
+    #divLogo {
+      gap: 4px;
+    }
+    #sidebarContainer {
+      width: 30vw;
+    }
+  }
+  
+  @media (min-width: 1001px) and (max-width: 1200px) {
+    #logoHeading {
+      display: none;
+    }
+    #headingSmall {
+      display: block;
+    }
+    #logoHeading1 {
+      font-size: 17px;
+    }
+    #logoHeading2 {
+      font-size: 12px;
+    }
+    #sidebarContainer {
+      width: 24vw;
+    }
+  }
+  
