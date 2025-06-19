@@ -63,9 +63,7 @@ npm install
 Run the App
 npm run dev
 
-#Login cedential
-📧 Email:    user01@sample.com
-🔐 Password:  123456
+
 
 
 

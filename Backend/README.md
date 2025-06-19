@@ -53,6 +53,3 @@ Start the Server
 npm start
 #This will start the server at http://localhost:3000
 
-#Login cedential
-📧 Email:    user01@sample.com
-🔐 Password:  123456
